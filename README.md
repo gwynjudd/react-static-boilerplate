@@ -60,7 +60,7 @@ This project was bootstraped with [React Static Boilerplate][rsb] by [Kriasoft][
 │   ├── Link/                      # Link component to be used instead of <a>
 │   ├── history.js                 # Client-side navigation manager
 │   ├── index.js                   # <== Application entry point (main) <===
-│   ├── registerServiceWokrer.json # This list of application routes
+│   ├── registerServiceWorker.json # This list of application routes
 │   ├── relay.js                   # Relay Modern client
 │   ├── router.js                  # Application routes
 │   ├── graphql.schema             # GraphQL schema obtained from a GraphQL API
